@@ -1,0 +1,24 @@
+#title {
+    background-color: beige;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    color: rgb(110, 43, 43);
+    font-size: 58px;
+}
+
+.food {
+    font-size: 32px;
+    font-family:"Bradley Hand", cursive;
+     font-weight: bold;
+    color: aliceblue;    
+}
+
+body {
+    background-color:#b6c199;
+}
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
